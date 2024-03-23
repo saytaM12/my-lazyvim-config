@@ -4,6 +4,8 @@
 
 vim.g.ruby_host_prog = "/home/sayta/.local/share/gem/ruby/3.0.0/bin/neovim-ruby-host"
 
+vim.opt.winbar = "%=%m %f%=%l/%L %p%%"
+
 vim.opt.number = true
 vim.opt.relativenumber = true
 
