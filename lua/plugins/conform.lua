@@ -6,7 +6,6 @@ return {
       cpp = { "clang_format" },
       h = { "clang_format" },
       hpp = { "clang_format" },
-      sql = { "sqlfluff" },
     },
     formatters = {
       clang_format = {

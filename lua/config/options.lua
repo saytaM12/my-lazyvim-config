@@ -32,7 +32,7 @@ vim.opt.isfname:append("@-@")
 
 vim.opt.scrolloff = 10
 
-vim.opt.colorcolumn = "113"
+vim.opt.colorcolumn = "112"
 
 vim.opt.splitright = true
 vim.opt.splitbelow = true
