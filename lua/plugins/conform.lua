@@ -6,6 +6,11 @@ return {
       cpp = { "clang_format" },
       h = { "clang_format" },
       hpp = { "clang_format" },
+      java = { "google-java-format" },
+      python = { "black", "autopep8" },
+      py = { "black", "autopep8" },
+      rust = { "/bin/rust-analyzer" },
+      html = { "prettier" },
     },
     formatters = {
       clang_format = {
